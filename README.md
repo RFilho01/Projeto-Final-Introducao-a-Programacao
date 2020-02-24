@@ -1,2 +1,2 @@
 # Projeto-Final-Introducao-a-Programacao
-Jogo da Velha feito em Python para conclusão da disciplina de Introdução à Programação na UFPB
+Jogo de Caça ao Tesouro feito em Python para conclusão da disciplina de Introdução à Programação na UFPB
